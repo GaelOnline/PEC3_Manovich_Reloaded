@@ -40,7 +40,7 @@ Además de recabar información, ordenarla y presentarla, presenta una pauta de 
 
 Los datos recabados pueden ser interpretados por aplicaciones de terceros, las propias de Apple de salud u otras que ofrece la propia Autosleep, mostrando otra hibridación más con otras aplicaciones. Los datos son recabados y almacenados en la nube para que se almacenen  a nombre de un usuario independientemente que cambies de reloj.
 
-En resumen [AutoSleep App](http://autosleep.tantsissa.com/ "pagina web Autosleep") es un caso de Hibridación de manipulación de datos que define nuevos formatos de medios pero utiliza técnicas de interacción/interfaz ya existentes. La hibridación de la app es una combinación de funciones (que se usaban por separado) unificadas en una sola app para poder visualizar los datos recabados para mejorar la salud del usuario 
+En resumen [AutoSleep App](http://autosleep.tantsissa.com/ "pagina web Autosleep") es un caso de Hibridación de manipulación de datos que define nuevos formatos de medios pero utiliza técnicas de interacción/interfaz ya existentes. La app fusiona información recabada de diferentes sensores creando una experiencia híbrida y profundizando en el control del sueño.  
 
 
 
@@ -57,8 +57,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Appfanaticos. AutoSleep App (consulta 19/05/23). Disponible en: <https://www.k-tuin.com/blog/apple-watch-app-autosleep>
 * Autosleepapp. Quick Star Guide (consulta 21/05/239 Disponible en <https://autosleepapp.tantsissa.com/user-guide/quick-guide>
 *<https://www.freepik.es/fotos-premium/empresario-graficos-virtuales-vistos-gafas-vr-ilustracion-ai-generativo_43014401.htm#query=futuro%20software&position=5&from_view=search&track=ais>
+*<https://www.freepik.es/fotos-premium/nina-durmiendo-cerca-padres-cama-noche_34546271.htm#query=monitorizar%20sue%C3%B1o&position=15&from_view=search&track=ais#position=15&query=monitorizar%20sue%C3%B1o>
+<https://www.freepik.es/foto-gratis/retro-microfono-aislado-fondo-color_1193151.htm#query=podcast&position=0&from_view=search&track=sph>
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
 
-Imagen "gafas futuro" usada bajo licencia premium freepik
+Todas las Imagen usada son bajo licencia premium freepik
