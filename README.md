@@ -1,12 +1,12 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
+### La Hibridación de AutoSleep y Ivoox 
 
 
-Autor: 
+Autor: Gael Gonzalez Alonso
 
 
-Fecha: 
+Fecha: 23/05/2023
 
 ![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
 
