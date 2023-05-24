@@ -40,7 +40,8 @@ Además de recabar información, ordenarla y presentarla, presenta una pauta de 
 
 Los datos recabados pueden ser interpretados por aplicaciones de terceros, las propias de Apple de salud u otras que ofrece la propia Autosleep, mostrando otra hibridación más con otras aplicaciones. Los datos son recabados y almacenados en la nube para que se almacenen  a nombre de un usuario independientemente que cambies de reloj.
 
-En resumen [AutoSleep App](http://autosleep.tantsissa.com/ "pagina web Autosleep") es un caso de Hibridación de manipulación de datos que define nuevos formatos de medios pero utiliza técnicas de interacción/interfaz ya existentes. La app fusiona información recabada de diferentes sensores creando una experiencia híbrida y profundizando en el control del sueño.  
+### Resumiendo
+[AutoSleep App](http://autosleep.tantsissa.com/ "pagina web Autosleep") es un caso de Hibridación de manipulación de datos que define nuevos formatos de medios pero utiliza técnicas de interacción/interfaz ya existentes. La app fusiona información recabada de diferentes sensores creando una experiencia híbrida y profundizando en el control del sueño.  
 
 
 
@@ -58,9 +59,10 @@ El perfil que se crea en Ivoox recoge los datos de gustos y preferencias marcada
 
 Además, el usuario de Ivoox decide por medio de listas que contenido consumir o que contenido dejar para ver más tarde. Pude seguir a ciertos autores y recibir notificaciones de los últimos programas que publica. Dentro de cada programa cada usuario puede comentar con los diferentes escuchas o el autor del podcast sus opiniones o establecer debates sobre la temática del programa creando una hibridación social con una especie de red social de cada autor.
 
-Resumiendo, [Ivoox App](https://www.ivoox.com/ "pagina web ivoox") es una plataforma de contenidos de audio en la nube que destaca por su hibridación de medios, combina radio en directo, radio a la carta, podcast, conciertos, charlas, mítines. Promueve una hibridación social por medio de mensajes entre el autor y el escucha (de cada contenido) y establece una vía directa de notificaciones para que este pueda colaborar y participar. Por último, gracias a la manipulación de datos Ivoox puede ofrecer contenido personalizado y establecer un canal de comunicación de interés con el usuario. Ivoox es un híbrido que define un formato de medios, que usa técnicas de interacción/interfaz ya existentes.
+### Resumiendo
+[Ivoox App](https://www.ivoox.com/ "pagina web ivoox") es una plataforma de contenidos de audio en la nube que destaca por su hibridación de medios, combina radio en directo, radio a la carta, podcast, conciertos, charlas, mítines. Promueve una hibridación social por medio de mensajes entre el autor y el escucha (de cada contenido) y establece una vía directa de notificaciones para que este pueda colaborar y participar. Por último, gracias a la manipulación de datos Ivoox puede ofrecer contenido personalizado y establecer un canal de comunicación de interés con el usuario. Ivoox es un híbrido que define un formato de medios, que usa técnicas de interacción/interfaz ya existentes.
 
-### Conclusión
+## Conclusión
 
 AutoSleep es una app que recaba datos para transformarlos en datos visuales sencillos. Para ello se híbrida con diferentes medios para poder ofrecer datos personalizados de salud al usuario
 
@@ -69,7 +71,7 @@ Ivoox es una clara hibridación de diferentes medios y promueve la hibridación 
 Las dos App son parte de una nueva tendencia social, la información y el conocimiento.
 
 
-### Reflexión personal
+## Reflexión personal
 
 Las dos aplicaciones son muy relevantes en mi día a día. Ofrecen información rápida y según mis preferencias. AutoSleep es una aplicación que trabaja sola y solo las consultas para contrastar datos de salud, suele ser por la mañana. El estar informado de tu salud me ayudó a entender mejor la importancia del descanso. Pienso que es una app imprescindible, y me sorprende que apple no sacase la suya propia, con la profundidad que tiene AutoSleep. 
 
