@@ -8,7 +8,7 @@ Autor: Gael Gonzalez Alonso
 
 Fecha: 23/05/2023
 
-![Software del futuro]([gafas futuro.jpg](https://github.com/GaelOnline/PEC3_Manovich_Reloaded/blob/main/gafas%20futuro.jpg)) 
+![Software del futuro](https://github.com/GaelOnline/PEC3_Manovich_Reloaded/blob/main/gafas%20futuro.jpg)
 
 
 ## Planteamiento
