@@ -12,11 +12,11 @@ ASIGNATURA: CULTURA DIGITAL
 
 ## LA HIBRIDACIÓN
 
-Los dos casos que se presentan tanto Ivoox como Autosleep son dos casos de **Hibridación** debido a la fusión que existen de medios diferenciándose del termino **multimedia**. Cualquier a de los dos son para uso social y enfocados al uso personal. 
+Los dos casos que se presentan Ivoox y Autosleep son dos casos de Hibridación, debido a la fusión que existen de medios diferenciándose del termino multimedia. Las dos App son para uso social y enfocados al uso personal. 
 
-Para entender que es la **hibridación** se puede decir que es un Fusion de medios. Esta se diferencia de **multimedia** (y se distancia) en que esta en  vez de existir una fusión los medios ( video, audio, texto..) funciona de forma independiente para ser reproducidos. La **hibridación** fusiona los elementos del software generando una nueva experiencia continua y unificada de diferentes medios para mejorar la experiencia de usuario.
+Para entender que es la Hibridación se puede decir, que es un Fusion de medios. Esta se diferencia de multimedia (y se distancia) en que, en vez de existir una fusión de los medios ( video, audio, texto..) funciona de forma independiente ca medio para ser reproducidos. La hibridación fusiona los elementos del software generando una nueva experiencia continua y unificada de diferentes medios para mejorar la experiencia de usuario.
  
-El proceso de **multimedia** es el primer paso que se dio antes de pasar a la **hibridación**. En la **Hibridación** es donde se usan todos los medios para crear un software que permite desarrollar y crear entornos creativos y adaptados a las necesidades del mundo real. Este proceso no se limita solo al entorno profesional sino que es una evolución del propio software.
+El proceso de multimedia es el primer paso que se dio antes de pasar a la hibridación. En la hibridación se usan todos los medios para crear un software que permite desarrollar y crear entornos creativos y adaptados a las necesidades del mundo real. Este proceso no se limita solo al entorno profesional sino que es una evolución del software
 
 > El mecanismo de hibridación no se limita al software para medios profesionales y los medios generados profesionalmente, sino que también tiene un papel primordial en la evolución del software y los servicios web de naturaleza social. Manovich,Lev (2013)
 
@@ -36,7 +36,7 @@ Es un caso de hibridación que requiere de contacto con el mundo físico para re
 Requiere de un dispositivo externo (reloj inteligente de Apple) con sensores de audio, geolocalización, movimiento, respiración, frecuencia cardiaca, temperatura. Muchos de estos sensores son recabados por la aplicación propia de Apple "salud" y otros son usados para representar fielmente los datos de control de sueño. Todos estos datos son recabados desde el reloj inteligente que tiene que llevar puesto mientras duerme el usuario. La función de este dispositivo externo es la de recabar datos, información para transmitirla a la app que tiene que estar instalada en el móvil del usuario. El reloj muestra controles básicos de la app y datos muy simplificados de los datos recogidos sin poder llegar a profundizar.
 
 Por otra parte requiere un dispositivo móvil donde se visualiza en la app todos los datos de forma gráfica, ordenada y sencilla. Es donde se recaba toda la información captada y se organiza para poder ser interpretada por el usuario. Los resultados son, el análisis exhaustivo de las fases de sueño del usuario (fase REM, tranquila y suave), así como pulsaciones, oxígeno en sangre durmiendo o ronquidos. Identificando en cada fase del sueño toda la información recabada. 
-Además de recabar información, ordenarla y presentarla, presenta una pauta de buenas conductas para ayudar a mejorar los datos recogidos, con un control histórico del sueño analizado.
+Además de recabar información, ordenarla y presentarla, expone una pauta de buenas conductas para ayudar a mejorar los datos recogidos, con un control histórico del sueño y analizado.
 
 Los datos recabados pueden ser interpretados por aplicaciones de terceros, las propias de Apple de salud u otras que ofrece la propia Autosleep, mostrando otra hibridación más con otras aplicaciones. Los datos son recabados y almacenados en la nube para que se almacenen  a nombre de un usuario independientemente que cambies de reloj.
 
