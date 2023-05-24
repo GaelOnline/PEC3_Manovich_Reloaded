@@ -56,9 +56,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Lomener, Guillermo (2022). AutoSleep: La mejor App para analizar el sueño con el Apple Watch (consulta 20/05/23). Disponible en: <https://www.k-tuin.com/blog/apple-watch-app-autosleep>
 * Appfanaticos. AutoSleep App (consulta 19/05/23). Disponible en: <https://www.k-tuin.com/blog/apple-watch-app-autosleep>
 * Autosleepapp. Quick Star Guide (consulta 21/05/239 Disponible en <https://autosleepapp.tantsissa.com/user-guide/quick-guide>
-*<https://www.freepik.es/fotos-premium/empresario-graficos-virtuales-vistos-gafas-vr-ilustracion-ai-generativo_43014401.htm#query=futuro%20software&position=5&from_view=search&track=ais>
-*<https://www.freepik.es/fotos-premium/nina-durmiendo-cerca-padres-cama-noche_34546271.htm#query=monitorizar%20sue%C3%B1o&position=15&from_view=search&track=ais#position=15&query=monitorizar%20sue%C3%B1o>
-<https://www.freepik.es/foto-gratis/retro-microfono-aislado-fondo-color_1193151.htm#query=podcast&position=0&from_view=search&track=sph>
+* <https://www.freepik.es/fotos-premium/empresario-graficos-virtuales-vistos-gafas-vr-ilustracion-ai-generativo_43014401.htm#query=futuro%20software&position=5&from_view=search&track=ais>
+* <https://www.freepik.es/fotos-premium/nina-durmiendo-cerca-padres-cama-noche_34546271.htm#query=monitorizar%20sue%C3%B1o&position=15&from_view=search&track=ais#position=15&query=monitorizar%20sue%C3%B1o>
+* <https://www.freepik.es/foto-gratis/retro-microfono-aislado-fondo-color_1193151.htm#query=podcast&position=0&from_view=search&track=sph>
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
