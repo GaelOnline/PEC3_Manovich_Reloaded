@@ -1,10 +1,9 @@
 # PEC3
-##Visionando el futuro con las gafas de Manovich
+## Visionando el futuro con las gafas de Manovich
+### La Hibridación de AutoSleep y Ivoox
 
-### La Hibridación de AutoSleep y Ivoox 
-
-Autor: Gael Gonzalez Alonso
-Fecha: 23/05/2023
+AUTOR: GAEL GONZALEZ ALONSO
+FECHA: 23/05/2023
 
 ![Software del futuro](https://github.com/GaelOnline/PEC3_Manovich_Reloaded/blob/main/gafas%20futuro.jpg)
 
