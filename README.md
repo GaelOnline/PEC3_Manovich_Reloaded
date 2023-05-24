@@ -53,8 +53,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 * Lomener, Guillermo (2022). AutoSleep: La mejor App para analizar el sueño con el Apple Watch (consulta 20/05/23). Disponible en: <https://www.k-tuin.com/blog/apple-watch-app-autosleep>
 * Appfanaticos. AutoSleep App (consulta 19/05/23). Disponible en: <https://www.k-tuin.com/blog/apple-watch-app-autosleep>
 * Autosleepapp. Quick Star Guide (consulta 21/05/239 Disponible en <https://autosleepapp.tantsissa.com/user-guide/quick-guide>
-
+*<https://www.freepik.es/fotos-premium/empresario-graficos-virtuales-vistos-gafas-vr-ilustracion-ai-generativo_43014401.htm#query=futuro%20software&position=5&from_view=search&track=ais>
 ----
 
 Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+
 Imagen "gafas futuro" usada bajo licencia premium freepik
