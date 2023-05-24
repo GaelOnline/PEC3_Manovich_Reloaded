@@ -22,7 +22,10 @@ El proceso de **multimedia** es el primer paso que se dio antes de pasar a la **
 
 
 
+
 ## Re-descubriendo la hibridacion: AutoSleep app
+![App dormir](https://github.com/GaelOnline/PEC3_Manovich_Reloaded/blob/main/control%20dormir.jpg)
+
 
 [AutoSleep App](http://autosleep.tantsissa.com/ "pagina web Autosleep") se creó para monitorizar la calidad y las horas de sueño con un dispositivo iWatch. La app recopila información de los sensores y datos que comparte con la app salud del móvil y los muestra de forma visual y sencilla para el usuario, en el dispositivo móvil. 
 
